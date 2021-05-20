@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_USER": "shaaer",
+        "MONGO_ATLAS_PASS": "shaaer",
+        "JWT_PRIVATE_KEY": "secret"
+    }
+}
